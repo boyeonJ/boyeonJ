@@ -45,6 +45,6 @@
 - Algorithm <br/>
   ✔ [Algorithm study](https://github.com/boyeonJ/Algorithm_Study)
 - React <br/>
-  ✔ [todolist](https://github.com/boyeonJ/react-redux-todo-list)https://github.com/boyeonJ/react-redux-todo-list
+  ✔ [todolist](https://github.com/boyeonJ/react-redux-todo-list)
 
 
