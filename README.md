@@ -1,6 +1,15 @@
+## 📚 Stack
 <div align=center>
-  
-#### Front
+
+#### 👩‍💻 Main
+<div>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <br/>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+</div>
+
+#### 🎨 Front
 <div >
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
@@ -18,14 +27,14 @@
 
 <!-- https://simpleicons.org/?q=tailwnd -->
 
-#### Back
+#### 🧮 Back
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-#### DevOps
+#### 🪜 DevOps
 <div>
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=mysql&logoColor=white">
@@ -46,5 +55,5 @@
   ✔ [Algorithm study](https://github.com/boyeonJ/Algorithm_Study)
 - React <br/>
   ✔ [todolist](https://github.com/boyeonJ/react-redux-todo-list)
-
-
+- TypeScript <br/>
+  ✔ 
