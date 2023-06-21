@@ -47,7 +47,7 @@
 
 ## 🤓 Recently, Studying
 - Javascript <br/>
-  ✔ [Javascript deep dive](https://github.com/Jellies-Study/Modern-JS) <br/>
+  ✔ [Javascript deep dive](https://github.com/boyeonJ/Modern-JS) <br/>
   ✔ [ES6+](https://github.com/boyeonJ/ES6plus-Study)
 - nextJS <br/>
   ✔ [boyeon-dev-blog](https://github.com/boyeonJ/boyeon-dev-blog)
