@@ -56,4 +56,10 @@
 - React <br/>
   ✔ [todolist](https://github.com/boyeonJ/react-redux-todo-list)
 - TypeScript <br/>
-  ✔ 
+  ✔ [TypeScript_Study](https://github.com/boyeonJ/TypeScript_Study)
+
+
+<br/><br/>
+| 쉽게 시작하는 타입스크립트 | 모던 자바스크립트 Deep Dive |
+|:---------------------------------------------------:|:-----------------------------------------------------:
+| ![image](https://github.com/boyeonJ/boyeonJ/assets/32887635/21c4810f-5fb5-48b6-8b6b-7a8dfb2f2b02) | ![image](https://github.com/boyeonJ/boyeonJ/assets/32887635/071a7bc3-b3c8-4c72-98be-98562e256887) |
