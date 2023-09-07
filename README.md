@@ -54,7 +54,7 @@
 - Algorithm <br/>
   ✔ [Algorithm study](https://github.com/boyeonJ/Algorithm_Study)
 - React <br/>
-  ✔ [todolist](https://github.com/boyeonJ/react-redux-todo-list)
+  ✔ [todolist](https://github.com/boyeonJ/react-redux-todo-list) <br/>
   ✔ [react 코드 분석](https://github.com/boyeonJ/react-deep-dive)
 - TypeScript <br/>
   ✔ [TypeScript_Study](https://github.com/boyeonJ/TypeScript_Study)
