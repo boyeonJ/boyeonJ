@@ -52,8 +52,8 @@
 - nextJS <br/>
   ✔ [boyeon-dev-blog](https://github.com/boyeonJ/boyeon-dev-blog)
 - Algorithm <br/>
-  ✔ [Algorithm study](https://github.com/boyeonJ/Algorithm_Study)
-  ✔ [코딩테스트]https://github.com/boyeonJ/Algorithm_Test_Javascript
+  ✔ [Algorithm study](https://github.com/boyeonJ/Algorithm_Study)<br/>
+  ✔ [코딩테스트 문제풀이](https://github.com/boyeonJ/Algorithm_Test_Javascript)
 - React <br/>
   ✔ [todolist](https://github.com/boyeonJ/react-redux-todo-list) <br/>
   ✔ [react 코드 분석](https://github.com/boyeonJ/react-deep-dive)
