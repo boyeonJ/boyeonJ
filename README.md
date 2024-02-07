@@ -1,78 +1,12 @@
-## 📚 Stack
-<div align=center>
+## 🤓👋🏻
+안녕하세요.
+Software Developer 정보연입니다.
 
-#### 👩‍💻 Main
-<div>
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <br/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <br/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-</div>
-
-#### 🎨 Client/Front
-<div >
-  
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=bootstrap&logoColor=white"> <br/>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"> 
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> <br/>
-<!-- <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <br/> -->
-<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=vue.js&logoColor=white"> 
-<!-- <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">  -->
-<!-- <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=bootstrap&logoColor=white"> -->
-<img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
-
-<!-- https://simpleicons.org/?q=tailwnd -->
-
-#### 🧮 Server/Back
-<div>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <br/>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-
-#### 🪜 DevOps
-<div>
-<img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-
-</div>
-
-<br/><br/>
-
-## 🤓 Recently, Studying
-- Javascript <br/>
-  ✔ [Javascript deep dive](https://github.com/boyeonJ/Modern-JS) <br/>
-  ✔ [Javascript project](https://github.com/boyeonJ/javascriptProject) <br/>
-  ✔ [ES6+](https://github.com/boyeonJ/ES6plus-Study)
-- server <br/>
-  ✔ [node, express project](https://github.com/boyeonJ/nodeJsProject) <br/>
-- nextJS <br/>
-  ✔ [boyeon-dev-blog](https://github.com/boyeonJ/boyeon-dev-blog)
-- Algorithm <br/>
-  ✔ [Algorithm study](https://github.com/boyeonJ/Algorithm_Study)<br/>
-  ✔ [코딩테스트 문제풀이](https://github.com/boyeonJ/Algorithm_Test_Javascript)
-- React <br/>
-  ✔ [todolist](https://github.com/boyeonJ/react-redux-todo-list) <br/>
-  ✔ [react 코드 분석](https://github.com/boyeonJ/react-deep-dive)
-- TypeScript <br/>
-  ✔ [TypeScript_Study](https://github.com/boyeonJ/TypeScript_Study)
-- HTML/CSS <br/>
-  ✔ [Responsive Web](https://github.com/boyeonJ/ResponsiveWeb)
-  
-
-<br/><br/>
-| 쉽게 시작하는 타입스크립트 | 모던 자바스크립트 Deep Dive |
-|:---------------------------------------------------:|:-----------------------------------------------------:
-| ![image](https://github.com/boyeonJ/boyeonJ/assets/32887635/21c4810f-5fb5-48b6-8b6b-7a8dfb2f2b02) | ![image](https://github.com/boyeonJ/boyeonJ/assets/32887635/071a7bc3-b3c8-4c72-98be-98562e256887) |
+React와 Typescript를 중심으로 개발합니다.<br/>
+생산성을 위한 클린한 코드와 사용자 경험을 위한 최적화에 관심이 많습니다.
+ 
+## skills
+- Typescript
+- React, Gatsby, Next.js, Vue.js
+- TanStack Query, Redux Toolkit
+- emotion, mui
